@@ -1,4 +1,4 @@
-package dto.request;
+package com.microservices.productservices.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
